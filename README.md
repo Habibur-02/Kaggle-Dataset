@@ -1,3 +1,5 @@
+[![MIT License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
+
 # 📁 kaggle-datasets
 
 A curated collection of public datasets published on [Kaggle](https://www.kaggle.com/habibur02) by **Habibur Rahman Aasif**. These datasets are clean, structured, and designed for practical use in data science, machine learning, and AI research.
