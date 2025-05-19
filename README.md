@@ -25,7 +25,7 @@ A curated collection of public datasets published on [Kaggle](https://www.kaggle
 ---
 
 ## 🗂 Folder Structure
-kaggle-datasets/
+``` kaggle-datasets/
 │
 ├── movie-dataset/
 │ ├── dataset-metadata.json
@@ -34,6 +34,7 @@ kaggle-datasets/
 
 
 ---
+```
 
 ## 🌐 Live Datasets on Kaggle
 
