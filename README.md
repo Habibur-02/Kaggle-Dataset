@@ -2,7 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Habibur-02?label=Follow&style=social)](https://github.com/Habibur-02)
 [![GitHub stars](https://img.shields.io/github/stars/Habibur-02/Kaggle-Dataset?style=social)](https://github.com/Habibur-02/Kaggle-Dataset/stargazers)
 [![Forks](https://img.shields.io/github/forks/Habibur-02/Kaggle-Dataset?style=social)](https://github.com/Habibur-02/Kaggle-Dataset/network)
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Habibur-02&show_icons=true&theme=radical)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/habibur02/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/habibur02)
 
