@@ -1,6 +1,5 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 [![GitHub followers](https://img.shields.io/github/followers/Habibur-02?label=Follow&style=social)](https://github.com/Habibur-02)
-[![GitHub stars](https://img.shields.io/github/stars/Habibur-02/Kaggle-Dataset?style=social)](https://github.com/Habibur-02/Kaggle-Dataset/stargazers)
 [![Forks](https://img.shields.io/github/forks/Habibur-02/Kaggle-Dataset?style=social)](https://github.com/Habibur-02/Kaggle-Dataset/network)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Habibur-02&show_icons=true&theme=radical)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/habibur02/)
@@ -58,4 +57,8 @@ View all my published datasets here:
 
 Feel free to fork this repo, use the datasets, or suggest improvements! If you find a dataset useful, please star ⭐ the repo and upvote 👍 it on [Kaggle](https://www.kaggle.com/habibur02).
 
+## 📈 GitHub Stats
+[![GitHub stars](https://img.shields.io/github/stars/Habibur-02/Kaggle-Dataset?style=social)](https://github.com/Habibur-02/Kaggle-Dataset/stargazers)
 
+## 📬 Get in Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/habibur02/)
