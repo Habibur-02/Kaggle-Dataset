@@ -1,4 +1,7 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
+[![GitHub followers](https://img.shields.io/github/followers/Habibur-02?label=Follow&style=social)](https://github.com/Habibur-02)
+[![GitHub stars](https://img.shields.io/github/stars/Habibur-02/Kaggle-Dataset?style=social)](https://github.com/Habibur-02/Kaggle-Dataset/stargazers)
+[![Forks](https://img.shields.io/github/forks/Habibur-02/Kaggle-Dataset?style=social)](https://github.com/Habibur-02/Kaggle-Dataset/network)
 
 # 📁 kaggle-datasets
 
