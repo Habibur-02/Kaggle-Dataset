@@ -31,9 +31,11 @@ A curated collection of public datasets published on [Kaggle](https://www.kaggle
 │ ├── dataset-metadata.json
 │ └── movie_data.csv
 │
-
-
----
+├── another-dataset/
+│ ├── dataset-metadata.json
+│ └── another_data.csv
+│
+└── ...
 ```
 
 ## 🌐 Live Datasets on Kaggle
