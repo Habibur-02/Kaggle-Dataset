@@ -25,4 +25,25 @@ A curated collection of public datasets published on [Kaggle](https://www.kaggle
 ---
 
 ## 🗂 Folder Structure
+kaggle-datasets/
+│
+├── movie-dataset/
+│ ├── dataset-metadata.json
+│ └── movie_data.csv
+│
+
+
+---
+
+## 🌐 Live Datasets on Kaggle
+
+View all my published datasets here:  
+👉 [https://www.kaggle.com/habibur02](https://www.kaggle.com/habibur02)
+
+---
+
+## 📬 Contributions & Feedback
+
+Feel free to fork this repo, use the datasets, or suggest improvements! If you find a dataset useful, please star ⭐ the repo and upvote 👍 it on [Kaggle](https://www.kaggle.com/habibur02).
+
 
